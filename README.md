@@ -1,1 +1,2 @@
 # lab-05
+In this lab I got to use Postman, which is like a super helpful app for testing how servers respond to different things. I built a Node.js and an Express server and used GET and POST requests to send and receive JSON data. I even made a array of objects that my server could respond with. It was very cool seeing Postman actually talk to something I coded, it made it feel legit, even if I did break things and mess up more then once or twice.
